@@ -149,6 +149,7 @@ footer {
     padding: 8px;
     width: 290px;
     transition: 0.10s ease;
+    border: none;
     cursor: pointer;
     border-radius: 15px;
 }
